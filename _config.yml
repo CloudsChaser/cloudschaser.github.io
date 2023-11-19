@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jeong the Cloud Chaser"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jeong"
+description              : "As a Presales team member at a CDN solutions leader and a managed service provider, I have been responsible for collecting, processing, and visualizing the necessary information for IT infrastructure proposals, catering to customers' needs for migrating workloads into the public cloud, implementing backup solutions, virtual desktop infrastructure (VDI), and disaster recovery (DR) for critical services. My experience extends to English communication, where I regularly write reports to Microsoft and its customers. This experience aligns closely with the responsibility of understanding customer IT/Security infrastructure and business requirements. <a href="https://www.linkedin.com/in/cloudchaser/">Read more about my work experience. </a>"
 url                      : "https://cloudschaser.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -35,8 +35,8 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  linkedin:
+    https://www.linkedin.com/in/cloudchaser/
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
